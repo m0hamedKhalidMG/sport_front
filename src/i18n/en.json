@@ -1,0 +1,95 @@
+{
+  "home": {
+    "title": "Choose Your Sport",
+    "trainers": "Available Trainers",
+    "search_placeholder": "Search for a sport"
+  },
+  "trainer": {
+    "rating": "Rating",
+    "experience": "Experience",
+    "search_placeholder": "Look for a Trainer",
+    "price": "Price",
+    "schedule": "Schedule",
+    "description": "About the Trainer",
+    "online_training": "Online Training",
+    "online_available": "Available",
+    "online_not_available": "Not Available",
+    "not_found": "Sorry, trainer not found."
+  },
+  "booking": {
+    "title": "Book a session with",
+    "available_slots": "Available Slots",
+    "confirm": "Confirm Booking",
+    "success": "Session booked successfully!"
+  },
+  "error": {
+    "title": "404 - Page Not Found",
+    "description": "Sorry, the page you are trying to access does not exist.",
+    "go_back": "Back to Home"
+  },
+  "trainers": {
+    "list_title": "Trainers List",
+    "search_placeholder": "Search for a trainer",
+    "sport": "Sport",
+    "rating": "Rating",
+    "price": "Price"
+  },
+  "sports": {
+    "list_title": "Sports List"
+  },
+  "about": {
+    "title": "About the Platform",
+    "description": "A platform that connects sports trainers with individuals seeking professional coaching. Our goal is to make access to certified trainers in various sports easier.",
+    "mission_title": "Our Mission",
+    "mission": "Empowering people to find the right coaching to enhance their sports skills.",
+    "vision_title": "Our Vision",
+    "vision": "To become the leading platform for sports coaching both online and on-site."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Your message has been sent successfully. We will get back to you soon!"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Submit",
+    "already_registered": "Already have an account? Login here.",
+    "not_registered": "Don't have an account? Register here."
+  },
+  "dashboard": {
+    "title": "My Bookings",
+    "trainer": "Trainer",
+    "time": "Time",
+    "no_bookings": "You have no bookings yet."
+  },
+  "errors": {
+    "login_required": "You must be logged in to book a session."
+  },
+  "trainerm": {
+    "management_title": "Trainer Management",
+    "add_trainer": "Add Trainer",
+    "name": "Name (English)",
+    "name_ar": "Name (Arabic)",
+    "descriptionAr":"description (Arabic)",
+    "price": "price",
+    "description": "description",
+    "phone": "phone",
+    "experience": "experience",
+    "Slot_Time":"Available Time",
+
+    "sport": "Sport (English)",
+    "sport_ar": "Sport (Arabic)",
+    "add_time_slot": "Add Time Slot",
+    "add": "Add",
+    "submit": "Submit",
+    "list_title": "Trainer List",
+    "delete": "Delete"
+  }
+}
