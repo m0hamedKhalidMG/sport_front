@@ -58,7 +58,10 @@ const TrainersListPage = () => {
     1: i18n.language === 'ar' ? 'تنس' : 'Tennis',
     2: i18n.language === 'ar' ? 'كرة الطائرة' : 'Volleyball',
     3: i18n.language === 'ar' ? 'كاراتيه' : 'Karate',
-  };
+    4: i18n.language === 'ar' ? 'كره الريشة' : 'Badminton',
+    5: i18n.language === 'ar' ? 'الصقارة' : 'Falconry', // Added Falconry
+};
+
   const filteredTrainers = trainers.filter((trainer) => {
     const nameToFilter = i18n.language === 'ar' ? trainer.nameAr : trainer.name;
     return nameToFilter?.toLowerCase().includes(searchQuery.toLowerCase());
