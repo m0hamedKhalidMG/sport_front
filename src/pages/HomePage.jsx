@@ -6,11 +6,9 @@ const sports = [
   { id: 1, name: 'تنس', nameEn: 'Tennis', icon: '🎾' },
   { id: 2, name: 'كرة الطائرة', nameEn: 'Volleyball', icon: '🏐' },
   { id: 3, name: 'كاراتيه', nameEn: 'Karate', icon: '🥋' },
-  { id: 4, name: 'كره الريشة', nameEn: 'Badminton', icon: '🥋' },
-
+  { id: 4, name: 'كره الريشة', nameEn: 'Badminton', icon: '🏸' },
+  { id: 5, name: 'الصقارة', nameEn: 'Falconry', icon: '🦅' }, // Added Falconry sport
 ];
-
-
 
 const HomePage = () => {
   const { t, i18n } = useTranslation();
